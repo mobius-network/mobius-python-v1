@@ -39,7 +39,7 @@ Examples
     data = mobius.app_store.balance(app_uid='f9e5e943', email='mail@example.com')
 
     if data['num_credits'] > 0:
-      mobius.app_store.use(app_uid='f9e5e943', email='mail@example.com', num_credits=1)
+        mobius.app_store.use(app_uid='f9e5e943', email='mail@example.com', num_credits=1)
 
 Methods
 -------
