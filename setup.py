@@ -12,7 +12,7 @@ with open(os.path.join(base_dir, "README.rst")) as f:
 setup(
   name='pymobius',
   packages=['pymobius'],
-  version='1.0.0',
+  version='1.0.1',
   description='Mobius Python API Client',
   long_description=long_description,
   include_package_data=True,
