@@ -29,7 +29,7 @@ create in `Mobius DApp Store <https://mobius.network/store/developer>`__
 
 .. code:: python
 
-    mobius = Mobius(api_key='your_api_key');
+    mobius = Mobius(api_key='your_api_key')
 
 Examples
 ~~~~~~~~
